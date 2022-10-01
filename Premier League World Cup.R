@@ -23,7 +23,7 @@
 ## Load data
 # The datasets are all downloaded from https://datahub.io/sports-data/english-premier-league
 
-dir    <- "C:\\Users\\peterds\\Desktop\\TEMPORARY"
+dir    <- "" # NB: Enter directory name here
 dbname <- "season-1516.csv"
 
 # Choice from "season-1819.csv", "season-1617.csv", "season-1516.csv"
